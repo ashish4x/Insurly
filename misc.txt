@@ -4,3 +4,7 @@ PolicyPal
 Insure-X
 Insurly -selected
 MillennialLife
+
+
+color scheme: #9F7AEA
+hero: https://lottiefiles.com/43792-yoga-se-hi-hoga
