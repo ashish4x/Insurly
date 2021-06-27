@@ -34,13 +34,14 @@
         md:flex-row
         items-center
       ">
-        <nav class=" flex lg:w-2/5 flex-wrap items-center text-lg md:ml-auto">
+        <nav class="sticky flex lg:w-2/5 flex-wrap items-center text-lg md:ml-auto">
             <a href="https://ashish4x.github.io/WebOcode-demo-repo/" class=" menu-bold
             mr-5
             hover:text-white-900
             cursor-pointer
             border-b border-transparent
             hover:border-red-600
+            
           ">Home</a>
             <a class=" menu-bold
             mr-5
@@ -79,16 +80,23 @@
 
             <span class="ml-3 hover:text-red-400 text-3xl"> Insurly</span>
         </a>
-        <div class="lg:w-2/5 inline-flex lg:justify-end ml-5 lg:ml-0">
+        <div id="getnow-button" class="lg:w-2/5 inline-flex lg:justify-end ml-5 lg:ml-0">
             <a href="#download" class=" getnow-btn
-            bg-red-500
-            hover:bg-indigo-500
+            
+            bg-indigo-500
+            hover:bg-red-500
             text-white
             md\:flex
             ml-auto
             py-2
             px-3
+            ring
+            ring-white
+            ring-offset-indigo-500
+            ring-offset-1
             rounded-lg
+            ring-opacity-90
+            sm:display:block
             
           ">
                 Get Now
@@ -135,9 +143,9 @@
 
 
                     <!-- <a class="features-btn" href="#features"</a></a> -->
-                    <button onclick="location.href='#features'" class=" transition duration-300 ease-in-out inline-flex text-white bg-purple-500 border-0 py-2 px-6 focus:outline-none hover:bg-purple-600 rounded text-lg">
+                    <button onclick="location.href='#features'" class="ring-4 ring-opacity-90 ring-pink-100 transition duration-300 ease-in-out inline-flex text-white bg-purple-500 border-0 py-2 px-6 focus:outline-none hover:bg-purple-600 rounded text-lg">
                         Features </button>
-                    <button onclick="location.href='#download'" class="animate-pulse  ml-4 inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 hover:text-white rounded text-lg">Download</button>
+                    <button onclick="location.href='#download'" class="ring-4 ring-opacity-90 ring-pink-100 animate-pulse  ml-4 inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 hover:text-white rounded text-lg">Download</button>
                 </div>
             </div>
             <div class="lg:max-w-lg lg:w-full md:w-4/5 w-4/5">
@@ -292,6 +300,13 @@
             </div>
         </div>
     </section>  -->
+
+
+
+    <!-- preloader component  -->
+
+
+
 
     <!-- features component -->
     <section class="text-gray-400 bg-gray-900 body-font">

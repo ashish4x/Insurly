@@ -87,3 +87,17 @@ nav {
     position: sticky;
     top: 0;
 }
+
+
+/* hide button below 600 */
+
+@media screen and (max-width: 600px) {
+    #getnow-button {
+        visibility: hidden;
+        clear: both;
+        float: left;
+        margin: 10px auto 5px 20px;
+        width: 28%;
+        display: none;
+    }
+}
