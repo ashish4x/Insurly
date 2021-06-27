@@ -3,7 +3,7 @@
 <!-- # Insurly- More than a Health Assistant -->
 <h1 align="center">WebOCode | IEEENSUT</a></h1>
 
-<h1 align="center"> <a href="https://ashish4x.github.io/WebOcode-demo-repo/"> Insurly</a></h1>
+<h1 align="center"> <a href="https://ashish4x.github.io/WebOcode-demo-repo/" target="_blank"> Insurly</a></h1>
 <h3 align="center">Next Gen HealthCare App</h3>
 
 <div align="center">
@@ -24,8 +24,8 @@
         
 </p>
 
-<h2 align="center"><a href="https://ashish4x.github.io/WebOcode-demo-repo/"> Deployed Link </a></h2>
-<h4 align="center"> Concept & Aesthetics Inspired From <a href="https://cred.club">CRED </a> & <a href="https://dribbble.com/shots/15355774-Lifegood-Landing-page/attachments/7116678?mode=media">DRIBBLE  </a></h4>
+<h2 align="center"><a href="https://ashish4x.github.io/WebOcode-demo-repo/" target="_blank"> Deployed Link </a></h2>
+<h4 align="center"> Concept & Aesthetics Inspired From <a href="https://cred.club" target="_blank">CRED </a> & <a href="https://dribbble.com/shots/15355774-Lifegood-Landing-page/attachments/7116678?mode=media" target="_blank">DRIBBLE  </a></h4>
 
 
 ### Features
