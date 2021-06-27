@@ -77,6 +77,9 @@ Feel free to raise any bugs/issues under Github issues. Pull requests are also m
 
 <hr>
 
+##  Problem & Learnings
+<p> Building the site responsive for smaller displays was the biggest challenge we faced. Tailwind CSS just magically helped us out with responsiveness and other fancy stuff with thier premade classes.We took  the inspiration of overall aesthetics from <a href="https://cred.club"> CRED</a>.  The specific Fontface, line spacing etc, that overall contributes in the look and feel of the site. This is not an actual app, just a showcase website, However while brainstorming about the idea, we really liked this and probably build an actual HealthTech product out of it later! <br> <br> I personally learnt a bit of js, Tailwind and playing with UI Components/Animations and other fancy UI/UX stuff which I wasn't aware of earlier. Also learnt how to build well structured yet cool Readme Files. </p>
+
 # Acknowledgements
 [Animations](https://www.lottiefiles.com)<br>
 [Favicon](https://iconscout.com/)<br>
