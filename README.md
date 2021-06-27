@@ -11,7 +11,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/ashish4x/WebOcode-demo-repo?style=social)](https://github.com/ashish4x/WebOcode-demo-repo/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/ashish4x/WebOcode-demo-repo)](https://github.com/ashish4x/WebOcode-demo-repo/issues)
 [![GitHub issues](https://img.shields.io/github/forks/ashish4x/WebOcode-demo-repo)](https://github.com/ashish4x/WebOcode-demo-repo/fork) 
- [![Updated Badge](https://badges.pufler.dev/updated/ashish4x/WebOcode-demo-repo/)](https://ashish4x.github.io/WebOcode-demo-repo/)
+ 
 
 
 
