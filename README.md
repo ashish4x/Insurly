@@ -1,7 +1,6 @@
 
-
 <!-- # Insurly- More than a Health Assistant -->
-<h1 align="center">WebOCode | IEEENSUT</a></h1>
+<h1 align="center">WebOCode | <a href="https://www.ieeensut.com/"> IEEENSUT</a></h1>
 
 <h1 align="center"> <a href="https://ashish4x.github.io/WebOcode-demo-repo/" target="_blank"> Insurly</a></h1>
 <h3 align="center">Next Gen HealthCare App</h3>
