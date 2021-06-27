@@ -19,11 +19,13 @@
         <img src="https://forthebadge.com/images/badges/uses-html.svg" /></a>
         <img src="https://forthebadge.com/images/badges/uses-js.svg" /></a>
         <img src="https://forthebadge.com/images/badges/uses-css.svg" /></a>
+        <img src="https://forthebadge.com/images/badges/built-with-love.svg" /></a>
         
         
 </p>
 
 <h2 align="center"><a href="https://ashish4x.github.io/WebOcode-demo-repo/"> Deployed Link </a></h2>
+<h4 align="center"> Concept & Aesthetics Inspired From <a href="https://cred.club">CRED </a> & <a href="https://dribbble.com/shots/15355774-Lifegood-Landing-page/attachments/7116678?mode=media">DRIBBLE  </a></h4>
 
 
 ### Features
@@ -34,7 +36,10 @@
 - [x] Dark Mode
 
 # Screenshots
-
+<img src="https://github.com/ashish4x/WebOcode-demo-repo/blob/main/assets/Screenshots/ss1.png"/>
+<img src="https://github.com/ashish4x/WebOcode-demo-repo/blob/main/assets/Screenshots/ss2.png"/>
+<img src="https://github.com/ashish4x/WebOcode-demo-repo/blob/main/assets/Screenshots/ss3.png"/>
+<img src="https://github.com/ashish4x/WebOcode-demo-repo/blob/main/assets/Screenshots/ss4.png"/>
 
 
 ## How to Use It ? (Usage)
