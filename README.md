@@ -25,6 +25,7 @@
 </p>
 
 <h2 align="center"><a href="https://ashish4x.github.io/WebOcode-demo-repo/" target="_blank"> Deployed Link </a></h2>
+<p align='center'>Leave a ⭐️ if you liked it!💗</p>
 <h4 align="center"> Concept & Aesthetics Inspired From <a href="https://cred.club" target="_blank">CRED </a> & <a href="https://dribbble.com/shots/15355774-Lifegood-Landing-page/attachments/7116678?mode=media" target="_blank">DRIBBLE  </a></h4>
 
 
@@ -35,7 +36,7 @@
 - [x] Easy to Use
 - [x] Dark Mode
 
-# Screenshots
+# Screenshots💻
 <img src="https://github.com/ashish4x/WebOcode-demo-repo/blob/main/assets/Screenshots/ss1.png"/>
 <img src="https://github.com/ashish4x/WebOcode-demo-repo/blob/main/assets/Screenshots/ss2.png"/>
 <img src="https://github.com/ashish4x/WebOcode-demo-repo/blob/main/assets/Screenshots/ss3.png"/>
