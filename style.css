@@ -81,4 +81,9 @@ button {
 } */
 
 
-/* slider css */
+/* sticky header  */
+
+nav {
+    position: sticky;
+    top: 0;
+}

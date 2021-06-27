@@ -56,4 +56,4 @@ window.onload = function() {
 };
 
 
-// slider script
+// sticky header
