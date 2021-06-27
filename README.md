@@ -1,6 +1,7 @@
 
 
 <!-- # Insurly- More than a Health Assistant -->
+<h1 align="center">WebOCode | IEEENSUT</a></h1>
 
 <h1 align="center"> <a href="https://ashish4x.github.io/WebOcode-demo-repo/"> Insurly</a></h1>
 <h3 align="center">Next Gen HealthCare App</h3>
@@ -18,6 +19,7 @@
         <img src="https://forthebadge.com/images/badges/uses-html.svg" /></a>
         <img src="https://forthebadge.com/images/badges/uses-js.svg" /></a>
         <img src="https://forthebadge.com/images/badges/uses-css.svg" /></a>
+        
         
 </p>
 
