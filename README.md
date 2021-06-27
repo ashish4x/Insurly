@@ -2,7 +2,7 @@
 
 <!-- # Insurly- More than a Health Assistant -->
 
-<h1 align="center">Insurly</h1>
+<h1 align="center"> <a href="https://ashish4x.github.io/WebOcode-demo-repo/"> Insurly</a></h1>
 <h3 align="center">Next Gen HealthCare App</h3>
 
 <div align="center">
@@ -20,6 +20,8 @@
         <img src="https://forthebadge.com/images/badges/uses-css.svg" /></a>
         
 </p>
+
+<h2 align="center"><a href="https://ashish4x.github.io/WebOcode-demo-repo/"> Deployed Link </a></h2>
 
 
 ### Features
