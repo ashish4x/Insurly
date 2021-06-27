@@ -18,7 +18,7 @@
 
 </div>
 
-**Insurly** is a simple app that helps **you manage your health & wealth at the same time** built specifically for GenZ and Millennials.
+<p align='center'>**Insurly** is a simple app that helps **you manage your health & wealth at the same time** built specifically for GenZ and Millennials.</p>
 
 <p align="center">
     <a href="https://github.com/ashish4x/WebOcode-demo-repo" alt="Made with Html,CSS,JS">
