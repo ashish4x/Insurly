@@ -44,7 +44,7 @@
 
 ## How to Use It ? (Usage)
 
-### Follow the steps given below to use it:
+### Follow the steps given below to use it:-
 
 
 1. Download this repo as zip file or clone it by running the below command
