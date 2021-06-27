@@ -8,6 +8,13 @@
 <div align="center">
 
 [![VisitorsCount](https://visitor-badge.laobi.icu/badge?page_id=insurly)](https://github.com/ashish4x/WebOcode-demo-repo)
+[![GitHub stars](https://img.shields.io/github/stars/ashish4x/WebOcode-demo-repo?style=social)](https://github.com/ashish4x/WebOcode-demo-repo/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/ashish4x/WebOcode-demo-repo)](https://github.com/ashish4x/WebOcode-demo-repo/issues)
+[![GitHub issues](https://img.shields.io/github/forks/ashish4x/WebOcode-demo-repo)](https://github.com/ashish4x/WebOcode-demo-repo/fork) 
+
+
+
+
 
 </div>
 
@@ -44,7 +51,7 @@
 
 ## How to Use It ? (Usage)
 
-### Follow the steps given below to use it:-
+### Follow the steps given below to use it:
 
 
 1. Download this repo as zip file or clone it by running the below command
