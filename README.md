@@ -2,7 +2,7 @@
 <!-- # Insurly- More than a Health Assistant -->
 <h1 align="center">WebOCode | <a href="https://www.ieeensut.com/"> IEEENSUT</a></h1>
 
-<h1 align="center"> <a href="https://ashish4x.github.io/WebOcode-demo-repo/" target="_blank"> Insurly</a></h1>
+<h1 align="center"> <a href="https://ashish4x.github.io/WebOcode-Insurly/" target="_blank"> Insurly</a></h1>
 <h3 align="center">Next Gen HealthCare App</h3>
 
 <div align="center">
@@ -22,7 +22,7 @@
 <p align='center'><b>Insurly</b> is a simple app that helps <b>you manage your health & wealth at the same time</b> built specifically for <b>GenZ</b> and <b>Millennials.</b></p>
 
 <p align="center">
-    <a href="https://github.com/ashish4x/WebOcode-demo-repo" alt="Made with Html,CSS,JS">
+    <a href="https://ashish4x.github.io/WebOcode-Insurly/" alt="Made with Html,CSS,JS">
         <img src="https://forthebadge.com/images/badges/uses-html.svg" /></a>
         <img src="https://forthebadge.com/images/badges/uses-js.svg" /></a>
         <img src="https://forthebadge.com/images/badges/uses-css.svg" /></a>
@@ -31,7 +31,7 @@
         
 </p>
 
-<h2 align="center"><a href="https://ashish4x.github.io/WebOcode-demo-repo/" target="_blank"> Deployed Link </a></h2>
+<h2 align="center"><a href="https://ashish4x.github.io/WebOcode-Insurly/" target="_blank"> Deployed Link </a></h2>
 <p align='center'>Leave a ⭐️ if you liked it!💗</p>
 <h4 align="center"> Concept & Aesthetics Inspired From <a href="https://cred.club" target="_blank">CRED </a> & <a href="https://dribbble.com/shots/15355774-Lifegood-Landing-page/attachments/7116678?mode=media" target="_blank">DRIBBLE  </a></h4>
 
