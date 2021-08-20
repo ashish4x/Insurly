@@ -44,10 +44,10 @@
 - [x] Dark Mode
 
 # Screenshots💻
-<img src="https://ashish4x.github.io/Insurly/blob/main/assets/Screenshots/ss1.png"/>
-<img src="https://ashish4x.github.io/Insurly/blob/main/assets/Screenshots/ss2.png"/>
-<img src="https://ashish4x.github.io/Insurly/blob/main/assets/Screenshots/ss3.png"/>
-<img src="https://ashish4x.github.io/Insurly/blob/main/assets/Screenshots/ss4.png"/>
+<img src="https://ashish4x.github.io/insurly/blob/main/assets/Screenshots/ss1.png"/>
+<img src="https://ashish4x.github.io/insurly/blob/main/assets/Screenshots/ss2.png"/>
+<img src="https://ashish4x.github.io/insurly/blob/main/assets/Screenshots/ss3.png"/>
+<img src="https://ashish4x.github.io/insurly/blob/main/assets/Screenshots/ss4.png"/>
 
 
 ## How to Use It ? (Usage)
