@@ -2,15 +2,15 @@
 <!-- # Insurly- More than a Health Assistant -->
 <h1 align="center">WebOCode | <a href="https://www.ieeensut.com/"> IEEENSUT</a></h1>
 
-<h1 align="center"> <a href="https://ashish4x.github.io/WebOcode-demo-repo/" target="_blank"> Insurly</a></h1>
+<h1 align="center"> <a href="https://ashish4x.github.io/Insurly/" target="_blank"> Insurly</a></h1>
 <h3 align="center">Next Gen HealthCare App</h3>
 
 <div align="center">
 
-[![VisitorsCount](https://visitor-badge.laobi.icu/badge?page_id=insurly)](https://github.com/ashish4x/WebOcode-demo-repo)
-[![GitHub stars](https://img.shields.io/github/stars/ashish4x/WebOcode-demo-repo?style=social)](https://github.com/ashish4x/WebOcode-demo-repo/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/ashish4x/WebOcode-demo-repo)](https://github.com/ashish4x/WebOcode-demo-repo/issues)
-[![GitHub issues](https://img.shields.io/github/forks/ashish4x/WebOcode-demo-repo)](https://github.com/ashish4x/WebOcode-demo-repo/fork) 
+[![VisitorsCount](https://visitor-badge.laobi.icu/badge?page_id=insurly)](https://ashish4x.github.io/Insurly/)
+[![GitHub stars](https://img.shields.io/github/stars/ashish4x/insurly?style=social)](https://ashish4x.github.io/Insurly/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/ashish4x/insurly)](https://ashish4x.github.io/Insurly/issues)
+[![GitHub issues](https://img.shields.io/github/forks/ashish4x/insurly)](https://ashish4x.github.io/Insurly/fork) 
  
 
 
@@ -31,7 +31,7 @@
         
 </p>
 
-<h2 align="center"><a href="https://ashish4x.github.io/WebOcode-demo-repo/" target="_blank"> Deployed Link </a></h2>
+<h2 align="center"><a href="https://ashish4x.github.io/Insurly/" target="_blank"> Deployed Link </a></h2>
 <p align='center'>Leave a ⭐️ if you liked it!💗</p>
 <h4 align="center"> Concept & Aesthetics Inspired From <a href="https://cred.club" target="_blank">CRED </a> & <a href="https://dribbble.com/shots/15355774-Lifegood-Landing-page/attachments/7116678?mode=media" target="_blank">DRIBBLE  </a></h4>
 
@@ -44,10 +44,10 @@
 - [x] Dark Mode
 
 # Screenshots💻
-<img src="https://github.com/ashish4x/WebOcode-demo-repo/blob/main/assets/Screenshots/ss1.png"/>
-<img src="https://github.com/ashish4x/WebOcode-demo-repo/blob/main/assets/Screenshots/ss2.png"/>
-<img src="https://github.com/ashish4x/WebOcode-demo-repo/blob/main/assets/Screenshots/ss3.png"/>
-<img src="https://github.com/ashish4x/WebOcode-demo-repo/blob/main/assets/Screenshots/ss4.png"/>
+<img src="https://ashish4x.github.io/Insurly/blob/main/assets/Screenshots/ss1.png"/>
+<img src="https://ashish4x.github.io/Insurly/blob/main/assets/Screenshots/ss2.png"/>
+<img src="https://ashish4x.github.io/Insurly/blob/main/assets/Screenshots/ss3.png"/>
+<img src="https://ashish4x.github.io/Insurly/blob/main/assets/Screenshots/ss4.png"/>
 
 
 ## How to Use It ? (Usage)
@@ -57,13 +57,13 @@
 
 1. Download this repo as zip file or clone it by running the below command
 ```bash
-git clone https://github.com/ashish4x/WebOcode-demo-repo
+git clone https://ashish4x.github.io/Insurly/
 ```
 
-2. Now, open the "Webocode-demo-repo" folder which got created "after clonning" it in the previous step.
+2. Now, open the "Insurly" folder which got created "after clonning" it in the previous step.
 
 ```bash
-cd Webocode-demo-repo
+cd Insurly
 ```
 
 3. Now open index.html file with any of your browser.
@@ -75,7 +75,7 @@ cd Webocode-demo-repo
 ## Pull requests welcome!
 
 Spotted an error? Something doesn't make sense? Send me a [pull
-request](https://github.com/ashish4x/WebOcode-demo-repo)! Thanks!
+request](https://ashish4x.github.io/Insurly/)! Thanks!
 
 <hr>
 
@@ -102,7 +102,7 @@ Feel free to raise any bugs/issues under Github issues. Pull requests are also m
 [Arpit Saxena](https://github.com/Aprilfoolian)<br>
 [Divanshu Saini](https://github.com/Divanshu-Saini)
 
-[![Contributors Display](https://badges.pufler.dev/contributors/ashish4x/WebOcode-demo-repo?size=50&padding=5&bots=true)](https://github.com/ashish4x/WebOcode-demo-repo/graphs/contributors)
+[![Contributors Display](https://badges.pufler.dev/contributors/ashish4x/insurly?size=50&padding=5&bots=true)](https://github.com/ashish4x/insurly/graphs/contributors)
 
 ## License
 
