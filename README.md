@@ -57,7 +57,7 @@
 
 1. Download this repo as zip file or clone it by running the below command
 ```bash
-git clone https://ashish4x.github.io/Insurly/
+git clone https://github.com/ashish4x/Insurly.git
 ```
 
 2. Now, open the "Insurly" folder which got created "after clonning" it in the previous step.
